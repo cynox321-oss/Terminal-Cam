@@ -27,11 +27,16 @@ Using OpenCV and NumPy, it captures webcam frames, converts them into grayscale,
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/YOUR-REPO.git
-cd YOUR-REPO
+git clone https://github.com/cynox321-oss/LIVE-ASCII-WEBCAM.git
 ```
 
-**2. Install dependencies**
+**2. Open the project directory**
+
+```bash
+cd LIVE-ASCII-WEBCAM
+```
+
+**3. Install dependencies**
 
 ```bash
 pip install opencv-python numpy
@@ -74,9 +79,10 @@ LIVE-ASCII-WEBCAM/
 **Karan Kousik**
 
 - GitHub: [@cynox321-oss](https://github.com/cynox321-oss)
+- Repository: [LIVE-ASCII-WEBCAM](https://github.com/cynox321-oss/LIVE-ASCII-WEBCAM)
 
 ---
 
-⭐ If you find this project interesting, consider giving it a star!
+⭐ If you find this project interesting, consider giving the repository a star!
 
 *Built with Python, pixels, and a little bit of terminal magic.*
