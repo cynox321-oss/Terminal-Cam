@@ -13,6 +13,15 @@ Using OpenCV and NumPy, it captures webcam frames, converts them into grayscale,
 - 📐 Automatically adjusts output width to terminal size
 - 🐍 Built with Python, OpenCV and NumPy
 
+- 
+## 📸 Screenshots
+
+![Terminal Cam Screenshot 1](Screenshot 2026-11-17 213736.png)
+
+![Terminal Cam Screenshot 2](Screenshot 2026-11-17 213651.png)
+
+
+
 ## 🛠️ Tech Stack
 
 | Technology | Purpose |
